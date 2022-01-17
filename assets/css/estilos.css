@@ -48,11 +48,4 @@ body {
 ul{
   list-style:none
 }
-.cards{
-  justify-content:center;
-  gap: 50px;
-}
 
-.cards > div{
-  max-width: 500px;
-}
